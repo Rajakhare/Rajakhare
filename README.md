@@ -1,3 +1,3 @@
 This is my first git repository.
 <br>
-Author - Raj Akhare
+Author - Raj Akhare (Developer)
